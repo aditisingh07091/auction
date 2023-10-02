@@ -1,4 +1,4 @@
-#Sellerapp(User-Auction)
+![Screenshot (29)](https://github.com/aditisingh07091/auction/assets/123183838/22d1ff54-2911-45ce-bd6b-180c4bcdf663)#Sellerapp(User-Auction)
 
 This project is a Django-based auction application.
 
@@ -32,3 +32,4 @@ This project is a Django-based auction application.
 -To update an auction details, make a PUT request to `/api/auctions/<auction_id>/`.
 -And other read and delete operations ,make a DELETE request for user and auction.
 
+#testing done through postman
